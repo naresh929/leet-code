@@ -1,0 +1,11 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "i".(Ñî„ëûÿÿÿÿ8 ½ŒÜç1
+H
+java:S1481"&Remove this unused "i" local variable.(Ñî„ëûÿÿÿÿ8¢½ŒÜç1
+i
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8ß¸ˆÜç1J$1a731b5f-fc47-4094-84d6-211b9ff0fe81
+†
+java:S1128"CRemove this unused import 'java.util.concurrent.CompletableFuture'.(ôÞä´8ß¸ˆÜç1J$70b8c3b8-4d22-4355-a464-29f9e8b3a30a
+€
+java:S1128	"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíýÿÿÿÿ8ß¸ˆÜç1J$65911fa5-4729-4940-b497-87f40c467583

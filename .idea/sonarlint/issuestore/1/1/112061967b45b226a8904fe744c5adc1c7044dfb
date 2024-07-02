@@ -1,0 +1,7 @@
+
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(±¯Ùøÿÿÿÿ8¡ÓÒîã1J$020141f4-8ff7-4a76-afac-4d3dd7bef8b6
+^
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8¬ÓÒîã1J$5208341e-9102-442e-b78a-562c195e97b2
+m	java:S106"+Replace this use of System.out by a logger.(ÀğÃı8Ù¢¿´ä1J$f094e320-ffa6-40f3-80df-a855adc17a8a
+j
+java:S1125"'Remove the unnecessary boolean literal.(ÀğÃı8¯ÓÒîã1J$007b3305-886c-46bb-a4c4-49767a0df793

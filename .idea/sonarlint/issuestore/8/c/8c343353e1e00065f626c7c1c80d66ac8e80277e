@@ -1,0 +1,13 @@
+
+	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8÷™ÄÐç1J$3ea23243-e581-4992-8d2c-ff8845b15ac1
+	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÿ¡ÇÐç1J$94e522e7-1c86-4194-95b0-3d8f322f3f55
+¡
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‰šÄÐç1J$6d6e78f2-2274-4dbe-9bab-0af034800a75
+r	java:S106%"+Replace this use of System.out by a logger.(÷ºâÿÿÿÿÿÿ8ƒôÀÐç1J$bc9f8e68-58dc-4944-8091-f54e809b9b01
+s
+java:S2446'"0"notify" may not wake up the appropriate thread.(­ÀôÉ8„ôÀÐç1J$568c05cc-348b-4433-983f-8606b7076f5d
+¡
+java:S2142="^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8•¢ÇÐç1J$09c8255a-24b4-437a-8996-9d599f65ef43
+r	java:S106A"+Replace this use of System.out by a logger.(÷ºâÿÿÿÿÿÿ8†ôÀÐç1J$508ddeb8-1d05-4e08-a43a-4a859c81af60
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8²µÆÐç1J$e2cdec2b-603b-409e-9b1d-632235f9ae67

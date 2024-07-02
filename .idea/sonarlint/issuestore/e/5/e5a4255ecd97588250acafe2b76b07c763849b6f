@@ -1,0 +1,10 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(åË¤Ğûÿÿÿÿ8ŒÇÉê1
+‚
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8„‡­ê1J$0ed96e5d-1ee8-4085-ab91-8979f0b36a54
+w
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8„‡­ê1J$3c957213-ef2b-4142-9c2d-f78dbf14fdec
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8œçÈê1J$fee1f7be-3579-4e37-b663-033a9b5703a1
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8œçÈê1J$921725af-d6cd-43fb-b1eb-4b931ce4133c

@@ -11,6 +11,7 @@ public class RomanToInteger {
     public static int romanToInt(String s) {
         Map<Character,Integer> mapping = new HashMap<>();
         int number = 0;
+        int previousValue = 0;
         mapping.put('I',1);
         mapping.put('V',5);
         mapping.put('X',10);
@@ -18,12 +19,14 @@ public class RomanToInteger {
         mapping.put('C',100);
         mapping.put('D',500);
         mapping.put('M',1000);
-        for(int i=0;i<s.length();i++){
-            Character c = s.charAt(i);
-            if(i>0 && mapping.get(s.charAt(i-1))<mapping.get(c)){
-                number = number - (2 * mapping.get(s.charAt(i-1)));
+        for(int i=s.length()-1;i>=0;i--){
+            int currentValue = mapping.get(s.charAt(i));
+            if(currentValue<previousValue){
+                number -= currentValue;
+            }else{
+                number += currentValue;
             }
-            number = number + mapping.get(c);
+            previousValue = currentValue;
         }
         return number;
     }

@@ -1,0 +1,9 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(§™¦¦ûÿÿÿÿ8õÑÃ¢å1J$64ff9dad-f761-4c52-9f8b-db0d213ab6a4
+r	java:S106"+Replace this use of System.out by a logger.(‘ÑÖÝýÿÿÿÿ8õÑÃ¢å1J$71717e8a-ed96-4a62-bf44-22189afb7dd0
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8‚—ø¢å1J$2987bcda-4c93-406d-a5e2-0e9f7589ae52
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8ƒ—ø¢å1J$bffa9b7d-46fa-4076-9f62-b9200e71bfbd
+v
+java:S1128".Remove this unused import 'java.util.TreeMap'.(¨éˆèýÿÿÿÿ8ƒ—ø¢å1J$637058eb-fa1a-41e7-9f8b-88f7e6e7aa42
